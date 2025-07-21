@@ -33,7 +33,7 @@ A **C++ CLI/WinForms-based Contact Book** that allows users to manage contacts w
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/contact-book.git
+   git clone https://github.com/sheikhzainfiaz/ContactBook.git
    ```
 2. Open the solution in **Visual Studio**.
 3. Ensure the **SQL Server connection string** in your project matches your local environment.
