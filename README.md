@@ -56,7 +56,7 @@ A **C++ CLI/WinForms-based Contact Book** that allows users to manage contacts w
 ## Screenshots
 
 
-![alt text]([image-1.png](https://github.com/sheikhzainfiaz/ContactBook/blob/master/Screenshot%202025-07-21%20173941.png?raw=true))
+![alt text](https://github.com/sheikhzainfiaz/ContactBook/blob/9506e1335f28c1cc3532bbdc741bfa9731f97792/Screenshot%202025-07-21%20173941.png)
 ---
 
 ## Why This Project?
